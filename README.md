@@ -1,0 +1,2 @@
+# Sudoku
+A Qt Project.
