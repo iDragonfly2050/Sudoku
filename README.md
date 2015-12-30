@@ -1,2 +1,2 @@
-# Sudoku
-A Qt Project.
+# 数独计算器
+使用Qt编写。
